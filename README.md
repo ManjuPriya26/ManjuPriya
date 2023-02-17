@@ -1,10 +1,14 @@
-## About me
-Hi there, I am Manju Priya :wave:
+### About me
 
-I'm a FrontEnd Developer who is passionate about building web applications, user interface designs using technologies like ReactJS, ExtJS, JavaScript, HTML, CSS and GraphQL.
+### Hi there 👋, I am Manju Priya
+#### FrontEnd Developer
 
-<h3>Location</h3>
-Illinois
+I have around 4 years of experience in FronEnd Development. I love to build web applications, user interface designs using technologies like ReactJS, Redux Toolkit, RTK Query, ExtJS, JavaScript and GraphQL. Curious to learn new technologies and tools.
+
+Skills:   REACT / JS / HTML / CSS / EXTJS / JAVA
+
+ 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+
