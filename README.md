@@ -7,7 +7,7 @@ I have around 5+ years of experience in FronEnd Development. I love to build web
 
 Skills:   REACT / JS / HTML / CSS / EXTJS / JAVA
 
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: gmanjupriya@gmail.com 
 
  
